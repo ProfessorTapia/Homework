@@ -31,11 +31,12 @@ __this will be underlined__
 1. Item 3
   1. item 3a
 
-  ## Table
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+## Table
+|**Command**|	**Description**|
+|     :---: |:---         |
+|git add	Stage| changes for commit|
+|git commit|	Record changes to the repository|
+|git push|	Upload local repository content to a remote repository|
 
 > This is a qoute
 
