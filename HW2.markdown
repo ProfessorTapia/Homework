@@ -31,11 +31,11 @@ __this will be underlined__
 1. Item 3
   1. item 3a
 
-  ## Tables
-| Name  | Age | Gender |
-|-------|-----|--------|
-| Alice | 30  | Female |
-| Bob   | 25  | Male   |
+  ## Table
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 > This is a qoute
 
