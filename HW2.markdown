@@ -10,12 +10,33 @@ permalink: /HW2/
 
 This is a paragraph
 
-* Here's a bulleted list
-* Another item
+*this will be italic*
 
-1. And an ordered list
-1. The numbers don't matter
+**this will be bold**
+
+~~this will be strike through~~
+
+__this will be underlined__
+
+## Lists
+### Unordered
+* item one
+* item two
+    * item a
+    * item b
+
+### Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+  1. item 3a
 
 > This is a qoute
 
 [This is a link to Google](https://google.com)
+
+  ## Tables
+| Name  | Age | Gender |
+|-------|-----|--------|
+| Alice | 30  | Female |
+| Bob   | 25  | Male   |
