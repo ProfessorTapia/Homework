@@ -32,6 +32,7 @@ __this will be underlined__
   1. item 3a
 
 ## Table
+
 | Command       | Description                                |
 | ------------: | :----------------------------------------- |
 | git add       | Stage changes for commit                   |
