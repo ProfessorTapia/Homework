@@ -33,7 +33,7 @@ __this will be underlined__
 
 ## Table
 |**Command**|	**Description**|
-|     :---: |:---         |
+|     ---: |:---         |
 |git add	Stage| changes for commit|
 |git commit|	Record changes to the repository|
 |git push|	Upload local repository content to a remote repository|
